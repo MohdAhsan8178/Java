@@ -1,0 +1,6 @@
+# Compiled class files
+*.class
+class_files/
+
+# OS metadata
+.DS_Store
