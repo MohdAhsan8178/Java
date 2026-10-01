@@ -8,6 +8,8 @@ This repository contains Java assignment programs (If you are reading this Hi!).
 - **`Module 3/`**: Contains 27 core Java programming solutions covering Multithreading, Synchronization, Locks, I/O Streams, File Handling, and Core Java Packages.
 - **`Module 4/`**: Contains 45 hands-on Java programming solutions covering Generics, Collections Framework (`List`, `Set`, `Map`, `Queue`, `Deque`, `Stack`), Concurrency, Custom Comparators, and Practical Data Structures.
 - **`Module 4_THEORY_SOLUTIONS.md`**: Complete theoretical and conceptual solutions for all 36 theory questions in Module 4.
+- **`Module 5/`**: Contains 12 comprehensive Java programming solutions covering Built-in Annotations, Meta-Annotations, Reflection-Based Custom Processors, Validation Engines, JSON Serializers, Method Profilers, Micro DI Container, and Enterprise Maven `pom.xml` configurations.
+- **`Module 5_THEORY_SOLUTIONS.md`**: Complete theoretical and architectural solutions for all 55 questions in Module 5 covering Java Annotations, Meta-Annotations, Reflection API, Maven Lifecycles, Plugins, Dependency Management, Scopes, Repositories, and Multi-Module Enterprise Systems.
 
 ## Author
 - **Mohd Ahsan** ([MohdAhsan8178](https://github.com/MohdAhsan8178))
